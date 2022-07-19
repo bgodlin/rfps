@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Please, proceed to discussions
+    url: https://github.com/bgodlin/rfp-template/discussions
+    about: Issues are only created by the repo admins. In order to request an issue, please, proceed to discussions
